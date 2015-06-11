@@ -1,0 +1,14 @@
+{
+  "jade_Compilation":
+    {
+      "enabled"                : false
+    },
+  "tm_design":
+    {
+      "folder_Docs_Json"       : "../../data/Lib_Docs-Json"       ,
+      "folder_Jade_Files"      : "../../code/TM_Jade"             ,
+      "folder_Jade_Compilation": "./.tmCache/jade_Compilation",
+      "webServices"            : "https://tmdev01-uno.teammentor.net/Aspx_Pages/TM_WebServices.asmx",
+      "port"                   : 12345
+    }
+}
