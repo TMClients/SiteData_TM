@@ -5,7 +5,7 @@
     },
   "tm_design":
     {
-      "folder_Docs_Json"       : "../../data/Lib_Docs-Json"       ,
+      "folder_Docs_Json"       : "../../data/Lib_Docs-json"       ,
       "folder_Jade_Files"      : "../../code/TM_Jade"             ,
       "folder_Jade_Compilation": "./.tmCache/jade_Compilation",
       "webServices"            : "https://tmdev01-uno.teammentor.net/Aspx_Pages/TM_WebServices.asmx",
@@ -13,6 +13,6 @@
     },
   "tm_graph":
     {
-      "folder_Lib_UNO_Json": "../../data/Lib_UNO-Json"
+      "folder_Lib_UNO_Json": "../../data/Lib_UNO-json"
     }
 }
