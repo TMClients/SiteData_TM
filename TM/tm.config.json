@@ -1,15 +1,11 @@
 {
-  "jade_Compilation":
-    {
-      "enabled"                : false
-    },
   "tm_design":
     {
-      "folder_Docs_Json"       : "../../data/Lib_Docs-json"       ,
-      "folder_Jade_Files"      : "../../code/TM_Jade"             ,
-      "folder_Jade_Compilation": "./.tmCache/jade_Compilation",
-      "webServices"            : "https://tmdev01-uno.teammentor.net/Aspx_Pages/TM_WebServices.asmx",
-      "port"                   : 12345
+      "jade_Compilation_Enabled": true                                                               ,
+      "folder_Docs_Json"        : "../../data/Lib_Docs-json"                                         ,
+      "folder_Jade_Files"       : "../../code/TM_Jade"                                               ,
+      "webServices"             : "https://tmdev01-uno.teammentor.net/Aspx_Pages/TM_WebServices.asmx",
+      "port"                    : 12345
     },
   "tm_graph":
     {
