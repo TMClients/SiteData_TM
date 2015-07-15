@@ -2,10 +2,14 @@
   "tm_design":
     {
       "jade_Compilation_Enabled": true                                                               ,
-      "folder_Docs_Json"        : "../../data/Lib_Docs-json"                                         ,
-      "folder_Jade_Files"       : "../../code/TM_Jade"                                               ,
-      "webServices"             : "https://tmdev01-uno.teammentor.net/Aspx_Pages/TM_WebServices.asmx",
-      "port"                    : 12345
+      "folder_Docs_Json"        : "../../data/Lib_Docs-json"                                          ,
+      "folder_Jade_Files"       : "../../code/TM_Jade"                                                ,
+      "webServices"             : "https://tmdev01-uno.teammentor.net/Aspx_Pages/TM_WebServices.asmx" ,
+      "port"                    : 12345                                                               ,
+      "HubspotEndpoint"         : "https://forms.hubspot.com/uploads/form/v2/"                        ,
+      "HubspotEnabled"          : true                                                                ,
+      "HubspotLeadSource"       : "Demo Request"                                                      ,
+      "HubspotLeadSourceDetail" : "TM Evaluation"
     },
   "tm_graph":
     {
