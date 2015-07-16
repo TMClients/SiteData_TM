@@ -4,7 +4,7 @@
       "jade_Compilation_Enabled": false                                                               ,
       "folder_Docs_Json"        : "../../data/Lib_Docs-json"                                         ,
       "folder_Jade_Files"       : "../../code/TM_Jade"                                               ,
-      "webServices"             : "https://tmdev01-www36.teammentor.net/Aspx_Pages/TM_WebServices.asmx",
+      "webServices"             : "https://tmdev01-beta36.teammentor.net/Aspx_Pages/TM_WebServices.asmx",
       "port"                    : 12345
     },
   "tm_graph":
