@@ -24,5 +24,15 @@
         "HubspotSiteId"  :"" ,
         "HubspotFormGuid":""
       }
-    } 
+    } ,
+  "piwikAnalytics":
+    {
+      "analitycsEnabled"  :false,
+      "analitycsSiteId"   :"",
+      "analitycsTrackUrl" :"",
+      "secrets":
+      {
+          "analyticsApiKey" :""
+      }
+    }
 }
