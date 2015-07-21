@@ -11,5 +11,17 @@
     {
       "folder_Lib_UNO_Json"     : "../../data/Lib_UNO-json",
       "port"                    : 12346
-    }
+    },
+  "hubspot":
+    {
+      "HubspotEndpoint"        :"https://forms.hubspot.com/uploads/form/v2/",
+      "HubspotEnabled"         :false,
+      "HubspotLeadSource"      :"Demo Request",
+      "HubspotLeadSourceDetail":"TM Evaluation" ,
+      "secrets":
+      {
+        "HubspotSiteId"  :"" ,
+        "HubspotFormGuid":""
+      }
+    } 
 }
