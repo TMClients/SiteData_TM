@@ -2,7 +2,7 @@
   "tm_design":
     {
       "jade_Compilation_Enabled": true                                                              ,
-      "folder_Docs_Json"        : "../../data/Lib_Docs-json"                                         ,
+      "folder_Docs_Json"        : "data/Lib_Docs-json"                                         ,
       "folder_Jade_Files"       : "code/TM_Jade"                                               ,
       "tm_35_Server"            : "https://tmdev01-beta36.teammentor.net"                            ,
       "webServices"             : "/Aspx_Pages/TM_WebServices.asmx"                                  ,
