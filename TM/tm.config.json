@@ -37,10 +37,10 @@
       }
     } ,
   "anonymousService":
-  {
-    "allowAnonymousArticles"  :true,
-    "allowedArticles"         :5,
-    "cookieName"              :"X2ZpbmdlcnByaW50",
-    "expirationDays"          :30
-  }
+    {
+      "allowAnonymousArticles"  :true,
+      "allowedArticles"         :5,
+      "cookieName"              :"X2ZpbmdlcnByaW50",
+      "expirationDays"          :30
+    }
 }
