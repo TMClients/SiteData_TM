@@ -35,5 +35,13 @@
       {
           "analyticsApiKey" :""
       }
+    } ,
+  "anonymousService":
+    {
+      "allowAnonymousArticles"  :true,
+      "allowedArticles"         :5,
+      "cookieName"              :"X2ZpbmdlcnByaW50",
+      "expirationDays"          :30,
+      "welcomeMessage"          :"Welcome to TEAM Mentor. You have 5 article credits remaining. Sing up to unlock full evaluation of TEAM Mentor."
     }
 }
