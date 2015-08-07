@@ -8,6 +8,7 @@
       "webServices"             : "/Aspx_Pages/TM_WebServices.asmx",
       "supportEmail"            : "mailto:support@securityinnovation.com",
       "githubUrl"               : "https://github.com/TeamMentor/TM_4_0_Design/issues",
+      "githubContentUrl"        : "https://github.com/TMContent/Lib_UNO/issues",
       "allowedEmailDomains"     : ["@securityinnovation.com"],
       "port"                    : 12345
     },
