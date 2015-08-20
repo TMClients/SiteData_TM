@@ -45,6 +45,9 @@
       "allowedArticles"         :5,
       "cookieName"              :"X2ZpbmdlcnByaW50",
       "expirationDays"          :30,
-      "welcomeMessage"          :"Welcome to TEAM Mentor. You have {# articles} article credits remaining. Sign up to unlock the full evaluation of TEAM Mentor."
+      "signUpUrl"               :"/guest/sign-up.html",
+      "loginUrl"                :"/guest/login.html",
+      "welcomeMessage"          :"You have articles out of totalAllowed article credits remaining.",
+      "noArticleCredits"        :"You are using your last free article credit."
     }
 }
