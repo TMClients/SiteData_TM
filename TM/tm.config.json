@@ -31,9 +31,10 @@
     } ,
   "piwikAnalytics":
     {
-      "analitycsEnabled"  :false,
-      "analitycsSiteId"   :"",
-      "analitycsTrackUrl" :"",
+      "analitycsEnabled"      :false,
+      "analitycsSiteId"       :"",
+      "analitycsTrackUrl"     :"",
+      "analitycsTrackingSite" :"",
       "secrets":
       {
           "analyticsApiKey" :""
