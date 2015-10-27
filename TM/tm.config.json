@@ -50,5 +50,10 @@
       "loginUrl"                :"/guest/login.html",
       "welcomeMessage"          :"You have articles out of totalAllowed article credits remaining.",
       "noArticleCredits"        :"You are using your last free article credit."
+    },
+  "virtualArticles":
+    {
+      "AutoRedirectIfGuidNotFound":false,
+      "AutoRedirectTarget"        :""
     }
 }
