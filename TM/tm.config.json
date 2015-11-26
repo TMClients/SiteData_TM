@@ -10,8 +10,15 @@
       "githubUrl"               : "https://github.com/TeamMentor/TM_4_0_Design/issues",
       "githubContentUrl"        : "https://github.com/TMContent/Lib_UNO/issues",
       "allowedEmailDomains"     : ["@securityinnovation.com"],
-      "port"                    : 12345
+      "port"                    : 12345,
+      "session_Timeout_Minutes" : 20160
     },
+  "tm_sessionCleanup_Schedule":
+     {
+       "dayOfWeek" : 6,
+       "hour"      : 12,
+       "minutes"   : 0
+     },
   "tm_graph":
     {
       "folder_Lib_UNO_Json"     : "../../data/Lib_UNO-json",
