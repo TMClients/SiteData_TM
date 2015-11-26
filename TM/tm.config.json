@@ -15,7 +15,7 @@
     },
   "tm_sessionCleanup_Schedule":
      {
-       "dayOfWeek" : 6,
+       "dayOfWeek" : 0,
        "hour"      : 12,
        "minutes"   : 0
      },
