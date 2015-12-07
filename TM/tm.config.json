@@ -13,6 +13,10 @@
       "port"                    : 12345,
       "session_Timeout_Minutes" : 20160
     },
+  "tm_security":
+    {
+      "Show_ContentToAnonymousUsers" : true
+    },
   "tm_sessionCleanup_Schedule":
      {
        "dayOfWeek" : 0,
