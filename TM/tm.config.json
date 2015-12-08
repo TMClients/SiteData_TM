@@ -15,7 +15,7 @@
     },
   "tm_security":
     {
-      "Show_ContentToAnonymousUsers" : true
+      "Show_ContentToAnonymousUsers" : false
     },
   "tm_sessionCleanup_Schedule":
      {
