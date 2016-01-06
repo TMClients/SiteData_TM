@@ -53,7 +53,7 @@
     } ,
   "anonymousService":
     {
-      "allowAnonymousArticles"  :true,
+      "allowAnonymousArticles"  :false,
       "allowedArticles"         :5,
       "cookieName"              :"X2ZpbmdlcnByaW50",
       "expirationDays"          :30,
