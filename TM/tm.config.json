@@ -1,13 +1,28 @@
 {
   "tm_design":
     {
-      "jade_Compilation_Enabled": true                                                              ,
-      "folder_Docs_Json"        : "../../data/Lib_Docs-json"                                         ,
-      "folder_Jade_Files"       : "../../code/TM_Jade"                                               ,
-      "tm_35_Server"            : "https://tmdev01-beta36.teammentor.net"                            ,
-      "webServices"             : "/Aspx_Pages/TM_WebServices.asmx"                                  ,
-      "port"                    : 12345
+      "jade_Compilation_Enabled": true,
+      "folder_Docs_Json"        : "data/Lib_Docs-json",
+      "folder_Jade_Files"       : "code/TM_Jade",
+      "tm_35_Server"            : "https://tmdev01-beta36.teammentor.net",
+      "webServices"             : "/Aspx_Pages/TM_WebServices.asmx",
+      "supportEmail"            : "mailto:support@securityinnovation.com",
+      "githubUrl"               : "https://github.com/TeamMentor/TM_4_0_Design/issues",
+      "githubContentUrl"        : "https://github.com/TMContent/Lib_UNO-Public/issues",
+      "allowedEmailDomains"     : ["@securityinnovation.com"],
+      "port"                    : 12345,
+      "session_Timeout_Minutes" : 20160
     },
+  "tm_security":
+    {
+      "Show_ContentToAnonymousUsers" : false
+    },
+  "tm_sessionCleanup_Schedule":
+     {
+       "dayOfWeek" : 0,
+       "hour"      : 12,
+       "minutes"   : 0
+     },
   "tm_graph":
     {
       "folder_Lib_UNO_Json"     : "../../data/Lib_UNO-json",
@@ -27,12 +42,29 @@
     } ,
   "piwikAnalytics":
     {
-      "analitycsEnabled"  :false,
-      "analitycsSiteId"   :"",
-      "analitycsTrackUrl" :"",
+      "analitycsEnabled"      :false,
+      "analitycsSiteId"       :"",
+      "analitycsTrackUrl"     :"",
+      "analitycsTrackingSite" :"",
       "secrets":
       {
           "analyticsApiKey" :""
       }
+    } ,
+  "anonymousService":
+    {
+      "allowAnonymousArticles"  :false,
+      "allowedArticles"         :5,
+      "cookieName"              :"X2ZpbmdlcnByaW50",
+      "expirationDays"          :30,
+      "signUpUrl"               :"/guest/sign-up.html",
+      "loginUrl"                :"/guest/login.html",
+      "welcomeMessage"          :"You have articles out of totalAllowed article credits remaining.",
+      "noArticleCredits"        :"You are using your last free article credit."
+    },
+  "virtualArticles":
+    {
+      "AutoRedirectIfGuidNotFound":false,
+      "AutoRedirectTarget"        :""
     }
 }
