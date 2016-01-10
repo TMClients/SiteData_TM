@@ -15,7 +15,7 @@
     },
   "tm_debug":
     {
-      "debugEnabled" : true
+      "debugEnabled" : false
     },
   "tm_security":
     {
