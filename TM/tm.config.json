@@ -37,7 +37,7 @@
       "HubspotEndpoint"        :"https://forms.hubspot.com/uploads/form/v2/",
       "HubspotEnabled"         :false,
       "HubspotLeadSource"      :"Demo Request",
-      "HubspotLeadSourceDetail":"TM Evaluation" ,
+      "HubspotLeadSourceDetail":"Registrant signed up for 7 day free trial of secure coding knowledgebase." ,
       "secrets":
       {
         "HubspotSiteId"  :"" ,
