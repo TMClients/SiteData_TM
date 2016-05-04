@@ -11,7 +11,8 @@
       "githubContentUrl"        : "https://github.com/TMContent/Lib_UNO-Public/issues",
       "allowedEmailDomains"     : ["@securityinnovation.com"],
       "port"                    : 12345,
-      "session_Timeout_Minutes" : 20160
+      "session_Timeout_Minutes" : 20160,
+      "redirectToLoginPage"     : false
     },
   "tm_debug":
     {
